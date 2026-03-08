@@ -19,8 +19,8 @@ I am a passionate Web Developer and Digital Solutions Creator focused on buildin
 
 ### 📊 GitHub Ecosystem
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=erick-surbakti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick-surbakti&layout=compact&theme=tokyonight"/>
 </p>
 
 ### 🤝 Let's Connect
