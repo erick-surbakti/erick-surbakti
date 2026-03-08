@@ -1,16 +1,31 @@
-## Hi there 👋
+# erick-surbakti-
+# Hi there, I'm Erick Surbakti! 👋
 
-<!--
-**erick-surbakti/erick-surbakti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Web Developer and Digital Solutions Creator focused on building clean, high-performance web applications. I bridge the gap between aesthetic design and robust functionality.
 
-Here are some ideas to get you started:
+### ⚡ Quick About Me
+- 🚀 **Currently Building:** Professional web identities and scalable digital solutions.
+- 🛠️ **Technical Interests:** UI/UX design, modern frontend frameworks, and digital security.
+- 🎨 **Philosophy:** Minimalism in design, complexity in logic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Ecosystem
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight"/>
+</p>
+
+### 🤝 Let's Connect
+- 📧 **Email**: ericksurbakti39@gmail.com
+- 🌐 **Portfolio**: [Your-Website-Link]
+
+---
+*"Building the future, one clean line of code at a time."*
