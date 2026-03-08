@@ -1,31 +1,38 @@
-# erick-surbakti-
-# Hi there, I'm Erick Surbakti! 👋
+# <p align="center">Hi there, I'm Erick Surbakti! 👋</p>
 
-I am a passionate Web Developer and Digital Solutions Creator focused on building clean, high-performance web applications. I bridge the gap between aesthetic design and robust functionality.
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94ZXB6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6Jm09MQ/3o7TKVUn7iM8FMEU24/giphy.gif" width="600px" alt="Coding GIF">
+</p>
+
+<p align="center">
+  <strong>Web Developer | Minimalist Design Enthusiast | IT Student</strong>
+</p>
+
+---
 
 ### ⚡ Quick About Me
-- 🚀 **Currently Building:** Professional web identities and scalable digital solutions.
-- 🛠️ **Technical Interests:** UI/UX design, modern frontend frameworks, and digital security.
-- 🎨 **Philosophy:** Minimalism in design, complexity in logic.
+- 🚀 **Focus:** Building high-end, pixel-perfect web interfaces (React & Tailwind).
+- 🛠️ **Current Projects:** Professional web identities and digital solutions.
+- 🎨 **Style:** Clean, professional, and modern aesthetics.
 
-### 🛠️ Tech Stack & Tools
-![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</p>
 
 ---
 
 ### 📊 GitHub Ecosystem
-<p align="left">
+<p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erick-surbakti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick-surbakti&layout=compact&theme=tokyonight"/>
 </p>
 
-### 🤝 Let's Connect
-- 📧 **Email**: ericksurbakti39@gmail.com
-- 🌐 **Portfolio**: [Your-Website-Link]
-
 ---
-*"Building the future, one clean line of code at a time."*
+
+### 🤝 Let's Connect
+<p align="center">
+  <a href="mailto:ericksurbakti39@gmail.com">Email</a> | <a href="https://linkedin.com/in/erick-malem-ate-surbakti">LinkedIn</a>
+</p>
