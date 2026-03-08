@@ -23,11 +23,15 @@
 </p>
 
 ---
-
-### 📊 GitHub Ecosystem
+### 📊 GitHub Activity
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=erick-surbakti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick-surbakti&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erick-surbakti&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Erick's Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=erick-surbakti&theme=tokyonight&hide_border=true" alt="Erick's Streak" />
+</p>
+
+### 🛠️ Language Proficiency
+<p align="center">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick-surbakti&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
