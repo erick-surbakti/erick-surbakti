@@ -32,5 +32,13 @@
 
 ### 🤝 Let's Connect
 <p align="center">
-  <a href="mailto:ericksurbakti39@gmail.com">Email</a> | <a href="https://linkedin.com/in/erick-malem-ate-surbakti">LinkedIn</a>
+  <a href="mailto:ericksurbakti39@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/erick-malem-ate-surbakti">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://erick-nine.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
