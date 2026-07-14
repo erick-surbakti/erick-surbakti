@@ -154,13 +154,12 @@ Built with a separated frontend and backend architecture, authentication, public
 <tr>
 <td width="50%" valign="top">
 
-### Indobox Digital Systems
+### Internal Quality Dashboard
 
-Technology and operational systems for a microcinema platform.
+Developed an internal enterprise dashboard for manufacturing operations, focusing on quality reporting, workflow automation, authentication, and operational analytics.
 
-The work includes zero-operator concepts, automated scheduling, digital ticketing flows, vendor integrations, and customer-facing digital experiences.
+`Enterprise Software` `Dashboard` `Automation`
 
-`Product Development` `Automation` `Operations`
 
 </td>
 <td width="50%" valign="top">
