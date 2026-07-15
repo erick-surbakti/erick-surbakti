@@ -16,7 +16,7 @@
 
 <br/>
 
-<a href="mailto:ericksurbakti39@gmail.com">
+<a href="mailto:ericksurbaktii@gmail.com">
   <img
     src="https://img.shields.io/badge/Email-ericksurbaktii%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
