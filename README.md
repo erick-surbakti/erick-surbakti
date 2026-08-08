@@ -326,7 +326,7 @@ The projects cover personal branding, business websites, internal tools, and exp
 <a href="https://linkedin.com/in/erick-malem-ate-surbakti">
   <img
     src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn Erick"
+    alt="LinkedIn My Erick"
   />
 </a>
 
