@@ -48,7 +48,7 @@
 
 <img
   src="https://komarev.com/ghpvc/?username=erick-surbakti&label=Profile%20Views&color=2563EB&style=flat-square"
-  alt="Profile views"
+  alt="Profile viewers"
 />
 
 </div>
